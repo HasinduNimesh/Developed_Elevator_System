@@ -1,5 +1,3 @@
-Absolutely! Here's the enhanced README with emojis:
-
 ---
 
 # Elevator Controller 🏢🔌
